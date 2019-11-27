@@ -31,3 +31,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+.mbt{
+  margin-bottom: 0;
+}
+
+.trangthai, .btn{
+  cursor: pointer;
+}
+
+.sort_seleted{
+  margin-left: 10px;
+}
+
+.dropdown-item{
+  cursor: pointer;
+}
